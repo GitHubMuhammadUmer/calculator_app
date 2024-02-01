@@ -1,2 +1,2 @@
-//calculatorap
+//calculatorapp
 https://calculatorappwebsite.netlify.app/
